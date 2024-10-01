@@ -1,0 +1,70 @@
+﻿
+@{
+    ViewData["Title"] = "view_sw_text";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1>View Work text</h1>
+                </div>
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item active">Work Text</li>
+                    </ol>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content text-center">
+        <div class="container-fluid">
+            <div class="card">
+                <div class="card-body">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>Title</th>
+                                <th>Name</th>
+                                <th>Date</th>
+                                <th>Cat</th>
+                                <th>Description1</th>
+                                <th>Heading</th>
+                                <th>Description2</th>
+                                <th>Update</th>
+                                <th>Delete</th>
+                            </tr>
+                        </thead>
+                        @foreach (System.Data.DataRow dr in ViewBag.ds.Rows)
+                        {
+                            <tbody>
+                                <tr>
+                                    <td>@dr["id"].ToString()</td>
+                                    <td>@dr["title"].ToString()</td>
+                                    <td>@dr["name"].ToString()</td>
+                                    <td>@dr["date"].ToString()</td>
+                                    <td>@dr["cat"].ToString()</td>
+                                    <td>@dr["discription1"].ToString()</td>
+                                    <td>@dr["heading"].ToString()</td>
+                                    <td>@dr["discription2"].ToString()</td>
+                                    <td><a href="delete_work_text/@dr["id"].ToString()" class="btn btn-danger">Delete</a></td>
+                                    <td><a href="update_work_text/@dr["id"].ToString()" class="btn btn-primary">Update</a></td>
+                                </tr>
+                            </tbody>
+                        }
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+

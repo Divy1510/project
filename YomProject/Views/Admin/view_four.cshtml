@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewData["Title"] = "view_four";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1>View Slider Table</h1>
+                </div>
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item active">Simple Tables</li>
+                    </ol>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content text-center">
+        <div class="container-fluid">
+            <div class="card">
+                <div class="card-body">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>Title</th>
+                                <th>Description</th>
+                                <th>Image</th>
+                                <th>Update</th>
+                                <th>Delete</th>
+                            </tr>
+                        </thead>
+                        @foreach (System.Data.DataRow dr in ViewBag.ds.Rows)
+                        {
+                            <tbody>
+                                <tr>
+                                    <td>@dr["id"].ToString()</td>
+                                    <td>@dr["title"].ToString()</td>
+                                    <td>@dr["discription"].ToString()</td>
+                                    <td><img src="~/image/@dr["image"].ToString()" width="80px"></td>
+                                    <td><a href="delete_four/@dr["id"].ToString()" class="btn btn-danger">Delete</a></td>
+                                    <td><a href="update_four/@dr["id"].ToString()" class="btn btn-primary">Update</a></td>
+                                </tr>
+                            </tbody>
+                        }
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

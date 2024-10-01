@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BACK-AND\\YomProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF7E951-CD34-476F-A64A-A410041586A9}|YomProject\\YomProject.csproj|e:\\back-and\\yomproject\\yomproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF7E951-CD34-476F-A64A-A410041586A9}|YomProject\\YomProject.csproj|solutionrelative:yomproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF7E951-CD34-476F-A64A-A410041586A9}|YomProject\\YomProject.csproj|e:\\back-and\\yomproject\\yomproject\\models\\catmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF7E951-CD34-476F-A64A-A410041586A9}|YomProject\\YomProject.csproj|solutionrelative:yomproject\\models\\catmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF7E951-CD34-476F-A64A-A410041586A9}|YomProject\\YomProject.csproj|e:\\back-and\\yomproject\\yomproject\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF7E951-CD34-476F-A64A-A410041586A9}|YomProject\\YomProject.csproj|solutionrelative:yomproject\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF7E951-CD34-476F-A64A-A410041586A9}|YomProject\\YomProject.csproj|e:\\back-and\\yomproject\\yomproject\\models\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF7E951-CD34-476F-A64A-A410041586A9}|YomProject\\YomProject.csproj|solutionrelative:yomproject\\models\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF7E951-CD34-476F-A64A-A410041586A9}|YomProject\\YomProject.csproj|e:\\back-and\\yomproject\\yomproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEF7E951-CD34-476F-A64A-A410041586A9}|YomProject\\YomProject.csproj|solutionrelative:yomproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEF7E951-CD34-476F-A64A-A410041586A9}|YomProject\\YomProject.csproj|e:\\back-and\\yomproject\\yomproject\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEF7E951-CD34-476F-A64A-A410041586A9}|YomProject\\YomProject.csproj|solutionrelative:yomproject\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BACK-AND\\YomProject\\YomProject\\Program.cs",
+              "RelativeDocumentMoniker": "YomProject\\Program.cs",
+              "ToolTip": "E:\\BACK-AND\\YomProject\\YomProject\\Program.cs",
+              "RelativeToolTip": "YomProject\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:24:06.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatModel.cs",
+              "DocumentMoniker": "E:\\BACK-AND\\YomProject\\YomProject\\Models\\CatModel.cs",
+              "RelativeDocumentMoniker": "YomProject\\Models\\CatModel.cs",
+              "ToolTip": "E:\\BACK-AND\\YomProject\\YomProject\\Models\\CatModel.cs",
+              "RelativeToolTip": "YomProject\\Models\\CatModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T04:55:00.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "E:\\BACK-AND\\YomProject\\YomProject\\Models\\BlogPost.cs",
+              "RelativeDocumentMoniker": "YomProject\\Models\\BlogPost.cs",
+              "ToolTip": "E:\\BACK-AND\\YomProject\\YomProject\\Models\\BlogPost.cs",
+              "RelativeToolTip": "YomProject\\Models\\BlogPost.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T04:54:56.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\BACK-AND\\YomProject\\YomProject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "YomProject\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\BACK-AND\\YomProject\\YomProject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "YomProject\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T05:11:02.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminModel.cs",
+              "DocumentMoniker": "E:\\BACK-AND\\YomProject\\YomProject\\Models\\AdminModel.cs",
+              "RelativeDocumentMoniker": "YomProject\\Models\\AdminModel.cs",
+              "ToolTip": "E:\\BACK-AND\\YomProject\\YomProject\\Models\\AdminModel.cs",
+              "RelativeToolTip": "YomProject\\Models\\AdminModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T05:10:57.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "E:\\BACK-AND\\YomProject\\YomProject\\Views\\Admin\\index.cshtml",
+              "RelativeDocumentMoniker": "YomProject\\Views\\Admin\\index.cshtml",
+              "ToolTip": "E:\\BACK-AND\\YomProject\\YomProject\\Views\\Admin\\index.cshtml",
+              "RelativeToolTip": "YomProject\\Views\\Admin\\index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T05:10:30.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

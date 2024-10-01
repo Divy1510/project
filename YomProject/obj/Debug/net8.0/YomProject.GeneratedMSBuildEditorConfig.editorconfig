@@ -1,0 +1,423 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = YomProject
+build_property.RootNamespace = YomProject
+build_property.ProjectDir = E:\BACK-AND\YomProject\YomProject\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\BACK-AND\YomProject\YomProject
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/add_a_client.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRkX2FfY2xpZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/add_bl_text.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRkX2JsX3RleHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/add_bw_slider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRkX2J3X3NsaWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/add_b_clas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRkX2JfY2xhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/add_cat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRkX2NhdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/add_client.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRkX2NsaWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/add_four.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRkX2ZvdXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/add_offer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRkX29mZmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/add_offer2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRkX29mZmVyMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/add_recent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRkX3JlY2VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/add_single.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRkX3NpbmdsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/add_slider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRkX3NsaWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/add_sw_slider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRkX3N3X3NsaWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/add_sw_text.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRkX3N3X3RleHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/add_team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRkX3RlYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/add_theme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRkX3RoZW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/add_theme2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRkX3RoZW1lMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/add_three.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWRkX3RocmVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/advanced.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYWR2YW5jZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/buttons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cYnV0dG9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/chartflot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cY2hhcnRmbG90LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/chartinline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cY2hhcnRpbmxpbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/chartjs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cY2hhcnRqcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/chartuplot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cY2hhcnR1cGxvdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/data.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/Deshboard1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVzaGJvYXJkMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/Deshboard2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVzaGJvYXJkMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/Deshboard3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVzaGJvYXJkMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/editors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZWRpdG9ycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/formgeneral.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZm9ybWdlbmVyYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/general.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZ2VuZXJhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/grid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZ3JpZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/icons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5caWNvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5caW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/modals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cbW9kYWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cbmF2YmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/ribbons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5ccmliYm9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/simples.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cc2ltcGxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/sliders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cc2xpZGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/timeline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdGltZWxpbmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/update_a_cli.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlX2FfY2xpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/update_blog_slider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlX2Jsb2dfc2xpZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/update_blog_text.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlX2Jsb2dfdGV4dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/update_cat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlX2NhdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/update_clas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlX2NsYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/update_cli.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlX2NsaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/update_four.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlX2ZvdXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/update_o.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlX28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/update_off.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlX29mZi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/update_re.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlX3JlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/update_single.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlX3NpbmdsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/update_single_slider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlX3NpbmdsZV9zbGlkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/update_t.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlX3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/update_team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlX3RlYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/update_the.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlX3RoZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/update_three.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlX3RocmVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/update_work_text.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdXBkYXRlX3dvcmtfdGV4dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/validation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdmFsaWRhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/view_a_client.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdmlld19hX2NsaWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/view_bl_text.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdmlld19ibF90ZXh0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/view_bw_slider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdmlld19id19zbGlkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/view_b_clas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdmlld19iX2NsYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/view_cat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdmlld19jYXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/view_client.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdmlld19jbGllbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/view_four.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdmlld19mb3VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/view_offer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdmlld19vZmZlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/view_offer2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdmlld19vZmZlcjIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/view_recent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdmlld19yZWNlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/view_single.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdmlld19zaW5nbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/view_slider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdmlld19zbGlkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/view_sw_slider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdmlld19zd19zbGlkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/view_sw_text.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdmlld19zd190ZXh0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/view_team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdmlld190ZWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/view_theme.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdmlld190aGVtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/view_theme2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdmlld190aGVtZTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/view_three.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cdmlld190aHJlZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Admin/widgets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cd2lkZ2V0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Home/about.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Home/bclassic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxiY2xhc3NpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Home/bgrid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxiZ3JpZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Home/bpost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxicG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Home/clients.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjbGllbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Home/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Home/four.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxmb3VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Home/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Home/register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxyZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Home/services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzZXJ2aWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Home/single.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzaW5nbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Home/three.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0aHJlZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Shared/AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/BACK-AND/YomProject/YomProject/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-64v3s52xk9

@@ -1,0 +1,91 @@
+﻿
+@{
+    ViewData["Title"] = "add_bl_text";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+
+
+<div class="content-wrapper">
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1>Add Slider</h1>
+                </div>
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item active">Add Slider</li>
+                    </ol>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <!-- left column -->
+                <div class="col-md-6">
+                    <div class="card card-primary">
+                        <div class="card-header">
+                            <h3 class="card-title">Quick Example</h3>
+                        </div>
+                        <form method="post" enctype="multipart/form-data">
+
+                            <div class="card-body">
+                                <div class="form-group">
+                                    <label for="exampleInputEmail1">Enter Title</label>
+                                    <input type="text" name="title" class="form-control" placeholder="Enter Title">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="exampleInputEmail1">Enter Name</label>
+                                    <input type="text" name="name" class="form-control" placeholder="Enter Name">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="exampleInputEmail1">Enter Date</label>
+                                    <input type="text" name="date" class="form-control" placeholder="Enter Date">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="exampleInputEmail1">Enter  Categorized</label>
+                                    <input type="text" name="cat" class="form-control" placeholder="Enter Categorized">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="exampleInputPassword1">Enter Discription1</label>
+                                    <input type="text" name="discription1" class="form-control" placeholder="Enter Discription">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="exampleInputPassword1">Enter Heading</label>
+                                    <input type="text" name="heading" class="form-control" placeholder="Enter Heading">
+                                </div>
+
+                                <div class="form-group">
+                                    <label for="exampleInputPassword1">Enter Discription2</label>
+                                    <input type="text" name="discription2" class="form-control" placeholder="Enter Discription1">
+                                </div>
+
+
+
+                                <div class="form-check">
+                                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                    <label class="form-check-label" for="exampleCheck1">Check me out</label>
+                                </div>
+                            </div>
+                            <!-- /.card-body -->
+
+                            <div class="card-footer">
+                                <button type="submit" class="btn btn-primary">Submit</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
